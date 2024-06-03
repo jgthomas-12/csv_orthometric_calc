@@ -24,7 +24,6 @@
 
 # 2. Install the required Python packages using pip. Open your terminal or command prompt and run the following commands:
 
-#    ```sh
 #    pip install pandas pygeodesy wxpython
 
 # Usage:
